@@ -1,0 +1,3 @@
+2)
+    a) se lanza 1 proceso hijo
+    b) el padra le dice al hijo sup! y el hijo le responde ya va
